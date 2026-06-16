@@ -29,6 +29,6 @@ Recently I've been interested in local-first software, LLM tooling, agent infras
 
 ### Tools I reach for
 
-Python · TypeScript · Go · C++ · Swift · SQL  
-AWS · Kubernetes · Docker · Terraform · Postgres · Redis  
+Python · C++ · Swift · SQL<br>
+AWS · Kubernetes · Docker · Terraform · Postgres · Redis<br>
 LiteLLM · MCP · Datadog
