@@ -1,42 +1,32 @@
 <h1 align="center">Hi, I'm Jack 👋</h1>
 
 <p align="center">
-  <b>Senior Software Engineer · AI Platform & Infrastructure</b><br>
-  Building LLM gateways, backend platforms, and reliable infrastructure for engineering teams.
-</p>
-
-<p align="center">
-  <a href="https://oddsvault.io"><img src="https://img.shields.io/badge/Project-OddsVault.io-7C3AED?style=for-the-badge" alt="OddsVault"></a>
+  <b>Software engineer · backend & infrastructure</b>
 </p>
 
 ---
 
-### What I work on
+### What I've worked on
 
-I build platform infrastructure for AI and backend systems. Right now I work on DraftKings' internal LLM gateway: a self-hosted, multi-provider control plane with an OpenAI-compatible API, SSO-bound virtual keys, per-team cost attribution, governance, and provider failover.
+Senior software engineer at DraftKings. I built and ran our internal LLM gateway: a self-hosted, multi-provider control plane with an OpenAI-compatible API, SSO-bound keys, per-team cost tracking, governance, and provider failover, used by a few thousand people across the company.
 
-Before AI infra, I worked across backend and distributed systems: 24+ microservices, Kubernetes and GitOps, cache-layer redesigns, and a CUDA port of an SDR signal pipeline that reached ~20x throughput.
-
-I like systems that are fast, observable, boring in production, and useful to other engineers. Currently most interested in LLM gateways, agentic tooling, applied-AI infrastructure, and developer platforms.
+My background is backend and distributed systems: microservices, Kubernetes and GitOps, caching, and earlier a CUDA port of an SDR signal pipeline. I care about infrastructure that is reliable and actually useful to other engineers.
 
 ---
 
-### 🔧 Open source
+### Open source
 
-* **[LiteLLM](https://github.com/BerriAI/litellm)**: contributor. Production experience running LiteLLM feeds upstream through bug reports, fixes, and features merged into releases.
-
----
-
-### 🚀 Selected projects
-
-| Project                                          | What it is                                                                                                     | Stack                      |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| **[Scrawl](https://github.com/jetemple/Scrawl)** | Local-first macOS menubar dictation app. Hotkey, speak, paste anywhere. On-device via whisper.cpp.             | Swift                      |
-| **[OddsVault.io](https://oddsvault.io)**         | NLP vector-search engine over 400K+ historical sports-betting records with fuzzy queries via FAISS embeddings. | Python · SvelteKit · FAISS |
+* **[LiteLLM](https://github.com/BerriAI/litellm)**: contributor. Bug fixes and features merged upstream, driven by running it in production.
 
 ---
 
-### 🧰 Tech I reach for
+### Projects
+
+* **[Scrawl](https://github.com/jetemple/Scrawl)**: local-first macOS menubar dictation app. Hotkey, speak, paste anywhere. On-device via whisper.cpp. (Swift)
+
+---
+
+### Tech I reach for
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
